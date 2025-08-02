@@ -8,7 +8,7 @@ My robot friend? Still developing
 
 ### Currently Learning 📖
 
-- GitHub basics, HTML  
+- HTML  
 - Creating small creative projects  
 - Bridging philosophy, psychology and technology
 
