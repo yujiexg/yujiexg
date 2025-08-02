@@ -10,7 +10,7 @@ My robot friend? Still developing
 
 - HTML  
 - Creating small creative projects  
-- Bridging philosophy, psychology and technology
+- Bridging my interests in philosophy, psychology and technology
 
 ![snake gif](https://github.com/yujiexg/yujiexg/blob/output/github-snake.svg)
 
