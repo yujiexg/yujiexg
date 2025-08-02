@@ -12,7 +12,7 @@ My robot friend? Still developing
 - Creating small creative projects  
 - Bridging philosophy, psychology and technology
 
-![snake gif](https://github.com/yujiexg/yujiexg/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/yujiexg/yujiexg/blob/output/github-snake.svg)
 
 <!--
 **yujiexg/yujiexg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
